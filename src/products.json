@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Fanta Limón",
+    "description": "Refresco",
+    "price": 2,
+    "thumbnail": "sin_imagen",
+    "code": 1236,
+    "stock": 20,
+    "id": 3
+  },
+
+  {
+    "title": "Agua",
+    "description": "Bebida",
+    "price": 1,
+    "thumbnail": "sin_imagen",
+    "code": 1237,
+    "stock": 25,
+    "id": 4}
+  ]
+  
